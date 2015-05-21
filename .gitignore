@@ -35,3 +35,8 @@ build/
 # Proguard temp
 proguard/dump.txt
 proguard/seeds.txt
+
+
+android-floatinglabel-widgets.iml
+demo/demo.iml
+library/library.iml
